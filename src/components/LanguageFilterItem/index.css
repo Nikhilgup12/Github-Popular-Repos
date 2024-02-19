@@ -1,0 +1,20 @@
+.language-tab-list {
+  margin: 13px;
+}
+.tab-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Roboto;
+}
+.active-tab {
+  color: #0284c7;
+  border-color: #0284c7;
+  border-width: 1px;
+  border-style: solid;
+  padding: 5px;
+  border-radius: 10px;
+}
